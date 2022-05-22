@@ -19,4 +19,6 @@ public interface UserserviseI {
      void deleteAllUser();
      
      List<UserEntity> saveAll(List<UserEntity> userEntity);
+
+
 }
