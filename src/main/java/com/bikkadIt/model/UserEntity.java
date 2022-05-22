@@ -98,6 +98,4 @@ public class UserEntity {
 				+ pass + ", createdDate=" + createdDate + ", updaDate=" + updaDate + "]";
 	}
 	
-	
-
-}
+	}
